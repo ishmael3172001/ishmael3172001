@@ -10,6 +10,7 @@ I'm a Computer Science student at WGU and an aspiring Systems Administrator with
 This GitHub serves as my technical portfolio, where I document home labs, scripts, and real-world projects involving Linux administration, Windows Server, Active Directory, PowerShell, Bash, networking, virtualization, and cybersecurity.
 
 My goal is to demonstrate practical experience and a commitment to continuous learning as I prepare for a career in IT infrastructure and systems administration.
+
 \*\*Technologies & Areas of Focus\*\*  
 \* Windows Server & Active Directory  
 \* Linux (Ubuntu)  
